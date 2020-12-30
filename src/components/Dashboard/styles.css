@@ -1,0 +1,9 @@
+.filter-trigger{
+	margin: 6em 4em;
+  	display: flex;
+  	width: 7em;
+  	height: 2em;
+  	font-size: 18px;
+  	justify-content: center;
+  	align-items: center;
+}
